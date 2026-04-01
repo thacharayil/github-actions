@@ -1,5 +1,5 @@
 ---
-name: 'Pull Request to GitHub'
+name: ' Sample GitHub Actions Script'
 
 on:
   push: 
